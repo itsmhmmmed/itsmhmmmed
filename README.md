@@ -91,7 +91,7 @@ print(me.current_quest())
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-36D399?style=for-the-badge&logo=googlechrome&logoColor=white)](https://itsmhmmmed.github.io/personal-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedghmouch)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmhmmmed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmhmmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghmohe2005@gmail.com)
 
 <br/>
